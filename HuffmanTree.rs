@@ -1,0 +1,2 @@
+gzip.HFNode
+gzip.HuffmanTree
